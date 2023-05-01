@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silkwormbuaa
 - 👀 I’m interested in CFD software development
-- 🌱 I’m currently learning MPI and CFD
+- 🌱 I’m currently learning large-eddy-simulation(LES) and cut-cell based immersed boundary method(IBM)
 - 💞️ I’m looking to collaborate on simulating shock wave/boundary layer interaction control
 - 📫 How to reach me w.wu-3@tudelft.nl
 
